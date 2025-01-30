@@ -1,5 +1,7 @@
 # Tetris
 
+[Online demo](https://rawcdn.githack.com/vitalijssilins/qwen25max-tetris-test/main/index.html)
+
 This is a simple research implementation of Tetris in JavaScript by Qwen2.5MAX LLM model, by working with it for half an hour to test its capabilities.
 
 There are levels, scoring, start and pause, and the game is over when the player's matrix is full.
